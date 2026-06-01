@@ -36,46 +36,46 @@
             "#808080"
         ],
         "BACKGROUND_PRIMARY": [
-            "#081924"
+            "##436878"
         ],
         "BACKGROUND_SECONDARY": [
-            "#081924"
+            "#436878"
         ],
         "BACKGROUND_SECONDARY_ALT": [
-            "#081924"
+            "#436878"
         ],
         "BACKGROUND_TERTIARY": [
-            "#081924"
+            "#436878"
         ],
         "BACKGROUND_ACCENT": [
             "#E5C787"
         ],
         "BACKGROUND_FLOATING": [
-            "#081924"
+            "#436878"
         ],
         "BACKGROUND_MOBILE_PRIMARY": [
-            "#081924"
+            "#436878"
         ],
         "BACKGROUND_MOBILE_SECONDARY": [
-            "#081924"
+            "#436878"
         ],
         "BACKGROUND_NESTED_FLOATING": [
-            "#081924"
+            "#436878"
         ],
         "BACKGROUND_MENTIONED": [
             "#0D126165"
         ],
         "BACKGROUND_MODIFIER_ACTIVE": [
-            "#081924"
+            "#436878"
         ],
         "BACKGROUND_MODIFIER_SELECTED": [
             "#E5C787"
         ],
         "BACKGROUND_MODIFIER_ACCENT": [
-            "#081924"
+            "#436878"
         ],
         "SPOILER_HIDDEN_BACKGROUND": [
-            "#081924"
+            "#436878"
         ],
         "SPOILER_REVEALED_BACKGROUND": [
             "transparent"
@@ -84,7 +84,7 @@
             "#999999"
         ],
         "CHAT_BACKGROUND": [
-            "#081924"
+            "#436878"
         ],
         "CHANNELS_DEFAULT": [
             "#c4c4c4"
@@ -102,11 +102,11 @@
         "PRIMARY_300": "#ffffff",
         "PRIMARY_360": "#E5C787",
         "PRIMARY_500": "#E5C787",
-        "PRIMARY_600": "#081924",
-        "PRIMARY_630": "#081924",
-        "PRIMARY_660": "#081924",
-        "PRIMARY_700": "#081924",
-        "PRIMARY_800": "#081924",
+        "PRIMARY_600": "#436878",
+        "PRIMARY_630": "#436878",
+        "PRIMARY_660": "#436878",
+        "PRIMARY_700": "#436878",
+        "PRIMARY_800": "#436878",
         "BRAND_260": "#E5C787",
         "BRAND_360": "#E5C787",
         "BRAND_500": "#E5C787",
