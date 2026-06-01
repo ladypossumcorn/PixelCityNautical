@@ -252,8 +252,9 @@
       "WHITE_630": "#a89984"
    },
 "background": {
-"alpha": 0,
-"url": "https://cdn.discordapp.com/attachments/1131528774282911765/1172273712607797249/9MCMi12.jpg?ex=655fb7f8&is=654d42f8&hm=bd4b3956c84ecc3e12f180f818038fad02aad1a7fb6b3d879fe93488e7f9416a&"
+        "url": "https://raw.githubusercontent.com/ladypossumcorn/PixelCityNautical/refs/heads/main/PixelCityLite/bge.jpg",
+        "alpha": 0.5,
+        "color": "#436878"
 },
    "plus":{
        "version":"0",
