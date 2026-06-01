@@ -36,9 +36,15 @@
             "#808080"
         ],
         "BACKGROUND_PRIMARY": [
-            "##436878"
+            "#436878"
+        ],
+        "BACKGROUND_MOBILE_PRIMARY": [
+            "#436878"
         ],
         "BACKGROUND_SECONDARY": [
+            "#436878"
+        ],
+        "BACKGROUND_MOBILE_SECONDARY": [
             "#436878"
         ],
         "BACKGROUND_SECONDARY_ALT": [
