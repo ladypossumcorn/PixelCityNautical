@@ -12,7 +12,7 @@
       "#98971a50"
       ],
       "BACKGROUND_ACCENT": [
-      "#E5C787"
+      "#9DCBD3"
       ],
       "BACKGROUND_MESSAGE_HOVER": [
       "#98971a50"
@@ -111,7 +111,7 @@
       "#504945"
       ],
       "REDESIGN_BUTTON_SECONDARY_BORDER": [ 
-      "#b16286"
+      "#9DCBD3"
       ],
       "REDESIGN_CHANNEL_CATEGORY_NAME_TEXT": [
       "#ebdbb2"
@@ -205,23 +205,23 @@
       "GREEN_860": "#98971a",
       "GREEN_900": "#98971a",
       "GUILD_BOOSTING_PINK": "#D3C09D",   
-      "GUILD_BOOSTING_PURPLE": "#b16286",
+      "GUILD_BOOSTING_PURPLE": "#9DCBD3",
       "GUILD_BOOSTING_PURPLE_FOR_GRADIENTS": "#d3869b",
-      "RED_260": "#E5C787",
-      "RED_300": "#E5C787",
-      "RED_330": "#E5C787",
-      "RED_345": "#E5C787",
-      "RED_360": "#E5C787",
-      "RED_400": "#E5C787",
-      "RED_430": "#E5C787",
-      "RED_460": "#E5C787",
-      "RED_500": "#E5C787",
-      "RED_530": "#E5C787",
-      "RED_560": "#E5C787",
-      "RED_600": "#E5C787",
-      "RED_630": "#E5C787",
-      "RED_660": "#E5C787",
-      "RED_700": "#E5C787",
+      "RED_260": "#9DCBD3",
+      "RED_300": "#9DCBD3",
+      "RED_330": "#9DCBD3",
+      "RED_345": "#9DCBD3",
+      "RED_360": "#9DCBD3",
+      "RED_400": "#9DCBD3",
+      "RED_430": "#9DCBD3",
+      "RED_460": "#9DCBD3",
+      "RED_500": "#9DCBD3",
+      "RED_530": "#9DCBD3",
+      "RED_560": "#9DCBD3",
+      "RED_600": "#9DCBD3",
+      "RED_630": "#9DCBD3",
+      "RED_660": "#9DCBD3",
+      "RED_700": "#9DCBD3",
       "YELLOW_100": "#d79921",
       "YELLOW_130": "#d79921",
       "YELLOW_160": "#d79921",
